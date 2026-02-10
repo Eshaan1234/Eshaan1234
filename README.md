@@ -61,3 +61,8 @@ LinkedIn: your-link-here
 Instagram: your-link-here
 
 > End of transmission.
+
+$ sudo inject-motivation
+> "Real hackers don’t give up — they debug reality."
+> Profile README executed successfully.
+> Standing by for next command...
