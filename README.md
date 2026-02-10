@@ -53,7 +53,7 @@ Mindset: Build • Break • Fix • Upgrade
 Boot Message:
 "I like coding that feels fast, sharp, and logical —
 like real hacker terminal energy."
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=matrix&hide_border=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Eshaan1234&theme=matrix&hide_border=true" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eshaan1234&show_icons=true&theme=matrix&hide_border=true" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Eshaan1234&theme=matrix&hide_border=true" /> </p>
 > Available communication lines:
 
 Email: eshaangupta53@gmail.com  
