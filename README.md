@@ -57,8 +57,8 @@ like real hacker terminal energy."
 > Available communication lines:
 
 Email: eshaangupta53@gmail.com  
-LinkedIn: https://www.linkedin.com/in/eshaan-gupta-17142a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-Instagram: https://www.instagram.com/shii.eshaan?igsh=bmMzZjhmNmR4eTRy
+LinkedIn: Eshaan Gupta (https://www.linkedin.com/in/eshaan-gupta-17142a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Instagram: Eshaan Gupta(https://www.instagram.com/shii.eshaan?igsh=bmMzZjhmNmR4eTRy)
 
 > End of transmission.
 
