@@ -66,3 +66,4 @@ $ sudo inject-motivation
 > "Real hackers don’t give up — they debug reality."
 > Profile README executed successfully.
 > Standing by for next command...
+Eshaan1234@github:~$ cat achievements.txt
