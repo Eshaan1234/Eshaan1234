@@ -64,7 +64,7 @@ I hack complexity."
 
 Mission:
 Build powerful, intelligent, futuristic software.
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=matrix&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=matrix&hide_border=true" /> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eshaan1234&show_icons=true&theme=matrix&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Eshaan1234E&theme=matrix&hide_border=true" /> </p>
 Email     : eshaangupta53@gmail.com
 LinkedIn  : https://www.linkedin.com/in/eshaan-gupta-17142a332
 Instagram : https://www.instagram.com/shii.eshaan
