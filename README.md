@@ -45,8 +45,8 @@ Here are some of my projects:
 ---
 
 ## 📫 Connect With Me
-- Email     : eshaangupta53@gmail.com
-- LinkedIn  : https://www.linkedin.com/in/eshaan-gupta-17142a332
+- Email     : (eshaangupta53@gmail.com)
+- LinkedIn  : (https://www.linkedin.com/in/eshaan-gupta-17142a332)
 - Instagram : (https://www.instagram.com/shii.eshaan)
 
 ---
