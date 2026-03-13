@@ -5,66 +5,59 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED...;INITIALIZING+ESHAAN+GUPTA;HACKER+MODE+ENABLED+⚡;WELCOME+TO+THE+CYBER+REALM" />
 </p>
-
----
-
 # ███████╗███████╗██╗  ██╗ █████╗  █████╗ ███╗   ██╗
 # ██╔════╝██╔════╝██║  ██║██╔══██╗██╔══██╗████╗  ██║
 # █████╗  ███████╗███████║███████║███████║██╔██╗ ██║
 # ██╔══╝  ╚════██║██╔══██║██╔══██║██╔══██║██║╚██╗██║
 # ███████╗███████║██║  ██║██║  ██║██║  ██║██║ ╚████║
 # ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+# Hi, I'm Eshaan 👋
 
-#  ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗ 
-# ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗
-# ██║  ███╗██║   ██║██████╔╝   ██║   ███████║
-# ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
-# ╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
-#  ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
+💻 Frontend Developer  
+📍 Pune, India  
+🚀 Passionate about building clean and responsive websites.
 
 ---
 
-# 🧬 SYSTEM.LOG — DEVELOPER PROFILE
-```bash
-> User: Eshaan Gupta
-> Status: ONLINE
-> Role: Developer | Hacker Mindset | AI Explorer
-> Primary Stack: Java | C | C++
-> Tools: VS Code | Git
-> System Theme: Futuristic Cyber Intelligence
-[ LANGUAGES LOADED ]
-✔ Java
-✔ C
-✔ C++
+## 👨‍💻 About Me
 
-[ TOOLS LOADED ]
-✔ Visual Studio Code
-✔ Git
+- 🎓 Student learning Web Development
+- 🌱 Currently learning JavaScript and modern frontend tools
+- 🛠️ I build responsive websites using HTML, CSS, and JS
+- 💼 Looking for freelance opportunities
 
-[ CORE CAPABILITIES ]
-> Logical Architecture
-> System-Level Thinking
-> Performance Optimization
-> AI System Curiosity
-> Running roadmap.sh
+---
 
-[✓] Mastering Data Structures & Algorithms  
-[✓] Building Projects in Java  
-[✓] Building Projects in C++  
-[✓] Strengthening Version Control Skills  
-[✓] Exploring AI-Based Systems  
+## 🚀 Skills
 
-> Progress Level: Increasing...
-Booting personality core...
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Git & GitHub
 
-"I don’t just write code.
-I engineer systems.
-I optimize logic.
-I hack complexity."
+---
 
-Mission:
-Build powerful, intelligent, futuristic software.
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=eshaan1234&show_icons=true&theme=matrix&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaan1234E&theme=matrix&hide_border=true" /> </p>
+## 📌 Projects
+
+Here are some of my projects:
+
+- 🌐 Portfolio Website
+- 🧮 Interest Calculator (Java GUI)
+- 📄 Landing Pages
+
+*(More projects coming soon)*
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Instagram: https://instagram.com/your-link
+
+---
+
+⭐ Thanks for visiting my profile!
 Email     : eshaangupta53@gmail.com
 LinkedIn  : https://www.linkedin.com/in/eshaan-gupta-17142a332
 Instagram : https://www.instagram.com/shii.eshaan
