@@ -2,6 +2,12 @@
   <img src="./Assets/eshaan.svg" alt="THANKS" />
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=Building+scalable+systems;Exploring+Go+%26+Distributed+Computing;Learning+system+design+patterns;Open+to+collaborations)](https://git.io/typing-svg)
+
+</div>
+
 # Hi, I'm Eshaan 👋
 
 💻 Frontend Developer  
