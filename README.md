@@ -5,12 +5,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED...;INITIALIZING+ESHAAN+GUPTA;HACKER+MODE+ENABLED+⚡;WELCOME+TO+THE+CYBER+REALM" />
 </p>
+
 # ███████╗███████╗██╗  ██╗ █████╗  █████╗ ███╗   ██╗
 # ██╔════╝██╔════╝██║  ██║██╔══██╗██╔══██╗████╗  ██║
 # █████╗  ███████╗███████║███████║███████║██╔██╗ ██║
 # ██╔══╝  ╚════██║██╔══██║██╔══██║██╔══██║██║╚██╗██║
 # ███████╗███████║██║  ██║██║  ██║██║  ██║██║ ╚████║
 # ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+
 # Hi, I'm Eshaan 👋
 
 💻 Frontend Developer  
