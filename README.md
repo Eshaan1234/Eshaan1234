@@ -45,16 +45,11 @@ Here are some of my projects:
 ---
 
 ## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/your-link
-- Instagram: https://instagram.com/your-link
+- Email     : eshaangupta53@gmail.com
+- LinkedIn  : https://www.linkedin.com/in/eshaan-gupta-17142a332
+- Instagram : (https://www.instagram.com/shii.eshaan)
 
 ---
 
 ⭐ Thanks for visiting my profile!
-Email     : eshaangupta53@gmail.com
-LinkedIn  : https://www.linkedin.com/in/eshaan-gupta-17142a332
-Instagram : https://www.instagram.com/shii.eshaan
 
-> Secure communication channels active.
-$ sudo hack-the-future
