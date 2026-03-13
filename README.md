@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/eshaan.svg" alt="THANKS" />
+  <img src="./Assets/eshaan.svg" alt="THANKS" />
 </div>
 
 # Hi, I'm Eshaan 👋
