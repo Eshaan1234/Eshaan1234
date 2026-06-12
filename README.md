@@ -34,7 +34,6 @@
 Here are some of my projects:
 
 - 🌐 Portfolio Website (Under Development)
-- 🧮 Interest Calculator (Java GUI)
 - 📄 Landing Pages
 
 *(More projects coming soon)*
